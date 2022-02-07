@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/tr0llex/SnippetChat/branch/main/graph/badge.svg)](https://codecov.io/gh/tr0llex/SnippetChat)
 
 #### Chat for programmers, the main feature of which is sending code snippets and launching them
+#### [Video demonstration](https://www.youtube.com/watch?v=_JITCJGx2rw&t=3s&ab_channel=AlexeySamoylov)
 Technopark Mail.ru 1st semester C++ project
 
 ## How to run
